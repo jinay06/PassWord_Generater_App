@@ -240,9 +240,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   passResult: {
-    fontSize:40
+    fontSize: 40
   },
-  Description:{
-    fontSize:17,
+  Description: {
+    fontSize: 17,
   }
 })
